@@ -67,7 +67,7 @@
 <footer>
   © 2025 AI Drinks Water | Data based on public estimates | This site is for educational and awareness purposes <br>
   <a href="mailto:helder@hiwis.com.br" style="color:lightblue;">Advertise here — helder@hiwis.com.br</a> | 
-  <a href="https://hiwis.com.br" target="_blank" style="color:lightblue;">Powered by hiwis.com.br</a>
+  <a href="https://hiwis.io" target="_blank" style="color:lightblue;">Powered by hiwis.com.br</a>
 </footer>
 
 <script>
